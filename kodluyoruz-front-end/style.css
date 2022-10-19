@@ -1,0 +1,45 @@
+/********************** tekli yorum satırı******************/
+body{
+  color: "";
+  
+  font-family: "";
+  font-size:40px/16=2.5em; 
+  list-style-position: inside;
+  background-color: rgb(233, 241, 233);
+  background-repeat: inherit;
+  background-position: left top;
+}
+/** text-red gir**/
+.text-red{color:rgb(105, 81, 105)
+  ;}
+  /*baslik acıklamaları*/
+  h1 { 
+    color: green;
+    margin: auto;
+    width: 30%;
+    border:10px solid green ;
+    padding: 10px;
+  }
+  h2,p {
+    color: 	rgb(80, 64, 64);
+    margin: auto;
+    width: 40%;
+  }
+  /*images aciklamalari*/
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  
+  }
+  /*paragraf satır aciklamaları*/
+  p,ul,h4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  a,h4,ul {
+    color: green
+  }
